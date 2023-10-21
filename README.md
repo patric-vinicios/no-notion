@@ -2,7 +2,7 @@
 
 ## Description
 
-no-Notion is a app to create docs, wikis and personal or business projetcs. With no-Notion, you're capable to share those docs with everybody! 😁
+no-Notion is an app to create docs, wikis and personal or business projetcs. With no-Notion, you're capable to share those docs with everybody! 😁
 
 This app was built for **studying purposes** in technologies below:
 
