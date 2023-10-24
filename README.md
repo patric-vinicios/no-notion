@@ -11,6 +11,7 @@ This app was built for **studying purposes** in technologies below:
 - Infinite children relations
 - Authentication
 - Files: upload, replacement and deletion
+- Dark and Light mode
 
 ## Installation
 
